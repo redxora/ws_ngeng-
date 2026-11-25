@@ -1,0 +1,13 @@
+﻿# Heavy 3D stream assets are synced via Google Drive (Waktu senja > car > ws-ngeng)
+stream/
+*.yft
+*.ytd
+*.ymf
+*.cwgv
+*.rar
+*.zip
+*.7z
+*.tmp
+*.log
+*.bak
+desktop.ini

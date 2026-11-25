@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CVehicleModelInfoVariation>
+  <variationData> 
+    <Item>
+      <modelName>ws_custom_326p</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            28
+            156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>658323_326p_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

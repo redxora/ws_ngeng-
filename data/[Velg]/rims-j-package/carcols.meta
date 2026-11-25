@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item> <!-- VWT_OFFROAD -->
+		<Item>
+        <wheelName>offroad_brims_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_06</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_06</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_08</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_08</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_13</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_13</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_15</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_15</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_16</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_16</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_19</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_19</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_21</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_21</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_27</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_27</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_37</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_37</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_42</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_42</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_43</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_43</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_46</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_46</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_48</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_48</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_54</wheelName>
+        <wheelVariation />
+        <modShopLabel>OFFBRIMS_54</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_ap</wheelName>
+        <wheelVariation />
+        <modShopLabel>alpin_putra</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  	<Item>
+        <wheelName>offroad_brims_ap1</wheelName>
+        <wheelVariation />
+        <modShopLabel>alpin_putra</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	</Item>
+    <Item/> <!-- VWT_TUNER -->
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

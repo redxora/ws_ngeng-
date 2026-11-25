@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_epic_kc</lockHash>
+		<modelNameHash>epic_kc</modelNameHash>
+		<cost value="100"/>
+		<textLabel>epic_kc</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

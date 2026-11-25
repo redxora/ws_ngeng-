@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>ws_pol_polbus</modelName>
+      <colors>
+	  <Item>
+          <indices content="char_array">
+            77
+            0
+            0 
+            77
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="7871" />
+      <sirenSettings value="2" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
